@@ -180,7 +180,7 @@ GA: UA-131051587-2
 
 #### :ghost:遊戲
 * [BC.Game](https://bc.game/atm)-BC.Game是一個BlockChain遊戲平台，具有可靠的公平，快速支付，免費水龍頭和Lightning Network支持。一些可用的遊戲是Crash，Dice和Blackjack。
-* [LightningFaucet](https://lightningfaucet.com/?utm_source=github&utm_medium=referral)-支援 Lightning Network 的比特幣水龍頭，提供免費 sats、撲克和預測市場。
+* [LightningFaucet](https://lightningfaucet.com/)-支援 Lightning Network 的比特幣水龍頭，提供免費 sats、撲克和預測市場。
 
 
 #### :tv:瀏覽器 |  Explorers
